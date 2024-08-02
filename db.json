@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Finances",
+      "budget": "888",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 222,
+      "services": [
+        {
+          "name": "Pacote Office",
+          "cost": "222",
+          "description": "office",
+          "id": "dbbb2299-60fc-4d63-bd9c-a1d06d52b87c"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
